@@ -8,9 +8,9 @@
 #gem 'simplecov', require: false, group: :test
 gem 'eventmachine'
 gem 'thin'
-gem 'sinatra', '>= 2.0.2'
-gem 'rack', '>= 2.2.3'
-gem 'rack-protection', '>= 2.0.0'
+gem 'sinatra', '>= 4.0.0'
+gem 'rack', '>= 2.2.14'
+gem 'rack-protection', '>= 4.0.0'
 gem 'em-websocket' # WebSocket support
 gem 'uglifier', '>= 2.7.2'
 gem 'mime-types'
